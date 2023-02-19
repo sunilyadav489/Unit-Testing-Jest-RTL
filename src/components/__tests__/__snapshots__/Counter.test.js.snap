@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+Array [
+  <h4>
+    Counter Component (Testing Events and Snapshot)
+  </h4>,
+  <div
+    className="counterWrapper"
+  >
+    <button
+      data-testid="increment"
+      onClick={[Function]}
+    >
+      +
+    </button>
+    <p
+      data-testid="counter"
+    >
+      1
+    </p>
+    <button
+      data-testid="decrement"
+      onClick={[Function]}
+    >
+      -
+    </button>
+  </div>,
+]
+`;
